@@ -16,16 +16,17 @@ Please be sure to contact me if you have any questions or remarks! ✉️
 
 ## Languages and Tools:
 
-💻 **Tech Stack**:
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-- ![Markdown](https://img.shields.io/badge/Markdown-%23121011.svg?&style=for-the-badge&logo=markdown&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-%233b77e5.svg?&style=for-the-badge&logo=python&logoColor=white)
-- ![Flask](https://img.shields.io/badge/Flask-%000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
-- ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%234B8BBE.svg?&style=for-the-badge&logo=python&logoColor=white)
-- ![Scrapy](https://img.shields.io/badge/Scrapy-%2338A8A2.svg?&style=for-the-badge&logo=scrapy&logoColor=white)
-- ![NumPy](https://img.shields.io/badge/NumPy-%234F5D95.svg?&style=for-the-badge&logo=numpy&logoColor=white)
-- ![Pandas](https://img.shields.io/badge/Pandas-%23150c6c.svg?&style=for-the-badge&logo=pandas&logoColor=white)
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?&style=for-the-badge&logo=matplotlib&logoColor=white)
-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+💻 **Tech Stack:**
+
+[![HTML5](https://svgporn.com/logos/html5.svg)](https://svgporn.com/logos/html5.svg)
+[![Markdown](https://svgporn.com/logos/markdown.svg)](https://svgporn.com/logos/markdown.svg)
+[![Python](https://svgporn.com/logos/python.svg)](https://svgporn.com/logos/python.svg)
+[![Flask](https://svgporn.com/logos/flask.svg)](https://svgporn.com/logos/flask.svg)
+[![BeautifulSoup](https://svgporn.com/logos/beautifulsoup.svg)](https://svgporn.com/logos/beautifulsoup.svg)
+[![Scrapy](https://svgporn.com/logos/scrapy.svg)](https://svgporn.com/logos/scrapy.svg)
+[![NumPy](https://svgporn.com/logos/numpy.svg)](https://svgporn.com/logos/numpy.svg)
+[![Pandas](https://svgporn.com/logos/pandas.svg)](https://svgporn.com/logos/pandas.svg)
+[![Matplotlib](https://svgporn.com/logos/matplotlib.svg)](https://svgporn.com/logos/matplotlib.svg)
+[![scikit-learn](https://svgporn.com/logos/scikit-learn.svg)](https://svgporn.com/logos/scikit-learn.svg)
+[![TensorFlow](https://svgporn.com/logos/tensorflow.svg)](https://svgporn.com/logos/tensorflow.svg)
+[![Docker](https://svgporn.com/logos/docker.svg)](https://svgporn.com/logos/docker.svg)
