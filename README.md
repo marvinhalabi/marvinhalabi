@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi you 👋
 
-<!--
-**marvinhalabi/marvinhalabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Marvin, and I am a data enthusiast. I will be uploading different projects that I am/have been working on 📊
 
-Here are some ideas to get you started:
+## Current Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 **LLM Chatbot**: Creating a conversational agent using large language models.
+- 📊 **Exploratory Data Analysis**: Analyzing and visualizing datasets to extract insights.
+- 🌐 **Web Scraping**: Extracting information from websites for various applications.
+- 🐦 **Tweet Sentiment Analysis**: Analyzing sentiments in tweets to understand public opinion.
+- 🌦️ **Weather + News**: Integrating weather data and news updates into a cohesive project.
+
+More to be published!
+
+Please be sure to contact me if you have any questions or remarks! ✉️
+
+## Languages and Tools:
+
+💻 **Tech Stack**:
+- HTML5
+- Markdown
+- Python
+- Flask
+- BeautifulSoup
+- Scrapy
+- NumPy
+- Pandas
+- Matplotlib
+- scikit-learn
+- TensorFlow
+- Docker
