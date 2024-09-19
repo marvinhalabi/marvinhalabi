@@ -14,7 +14,7 @@ More to be published!
 
 Please be sure to contact me if you have any questions or remarks! ✉️
 
-##💻 Tech Stack:
+## 💻 Tech Stack:
 
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://html5.org)
 [![Markdown](https://img.shields.io/badge/Markdown-%23121011.svg?style=flat&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
